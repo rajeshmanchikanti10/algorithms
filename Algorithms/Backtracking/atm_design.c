@@ -47,5 +47,6 @@ int notes;
 notes=0;
 count_notes(notes,0,5,1400,arr);
 printf("no of notes is %d\n",mn);
-return 0;
+int returnvalue=0;
+return returnvalue;
 }
