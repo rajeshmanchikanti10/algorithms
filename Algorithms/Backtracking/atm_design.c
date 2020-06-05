@@ -44,6 +44,8 @@ int main()
 int n;
 int arr[]={100,200,500,1000};
 int notes;
+
+
 notes=0;
 count_notes(notes,0,5,1400,arr);
 printf("no of notes is %d\n",mn);
